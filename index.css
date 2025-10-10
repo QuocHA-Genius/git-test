@@ -10,4 +10,20 @@ table{
     font-weight: bold;
     padding: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);   
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+h1{
+    
 }

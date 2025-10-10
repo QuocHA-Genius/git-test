@@ -1,4 +1,4 @@
-box1:hover, box2:hover, box3:hover{
+.box1:hover, .box2:hover, .box3:hover{
         background-color: yellow;
         transition: 0.5s;
     }

@@ -1,4 +1,4 @@
 .box1:hover, .box2:hover, .box3:hover{
-        background-color: yellow;
+        background-color: rgba(rgb(180, 41, 41), rgb(44, 218, 44), rgb(45, 45, 233), 0.5);
         transition: 0.5s;
     }
